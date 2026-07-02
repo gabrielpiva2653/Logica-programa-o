@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(79, 80, 83);
+    color: azure;
+}
+
+header{
+    background-color:#6561ea;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+section{
+    max-width: 800px;
+    padding: 20px;
+    margin: 20px auto;
+    background-color:rgb(50, 50, 51);
+     border-radius: 10px;
+}
+
+h2{
+    color:#6561ea;
+}
+
+a{
+    color:#6561ea;
+}
